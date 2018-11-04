@@ -978,6 +978,10 @@ button:focus {
 	text-align: center;
 }
 
+.mu-register-info {
+	text-align: left;
+	font-weight: normal;
+}
 /*--------------------*/
 /* REGISTER */
 /*--------------------*/
@@ -1199,6 +1203,19 @@ button:focus {
 	padding: 0 120px;
 }
 
+.mu-contact-info-title {
+	display: inline;
+	float: left;
+	font-size: 20px;
+	padding: 0 20%;
+	font-weight: normal;
+}
+
+.mu-contact-info-content {
+	font-size: 16px;
+	font-weight: normal;
+}
+
 .mu-contact-content{
 	display: inline;
 	float: left;
@@ -1299,6 +1316,16 @@ button:focus {
 }
 
 
+/*--------------------*/
+/* ADMISSIONLIST */
+/*--------------------*/
+.mu-admissionlist-content {
+
+}
+
+.mu-admissionlist-title {
+
+}
 
 /*--------------------*/
 /* FOOTER */
